@@ -1,5 +1,5 @@
 # JobSearcher
-# Getting Started with Create Job Searcher App
+## Getting Started with Create Job Searcher App
   Step1: Create Venv \
   Step2: active  Venv/Scripts/activate in terminal \
   Step3: Create data base: jobdb , change password mysql in getting.py \
